@@ -7,6 +7,12 @@
 ## Abstract
 This proposal highlights the main contribution of the paper titled "On the Resiliency of Power and Gas Integration Resources Against Cyber Attacks" and its relevance to the EECS6322 course. The paper proposes a cybersecurity framework that leverages machine learning, specifically neural networks, to protect against cyberattacks. The framework aims to secure both field sensor data and information exchanged between power utilities and control panels. To achieve this, the paper employs convolutional neural networks and wavelet transforms to safeguard primary field measurements. Additionally, an unsupervised classification neural network is used to detect the exact operation point of the control signals shared from the power utility. The output of this network is then utilized by a second neural network to determine the exact operation point and identify potential cyberattacks in the power utility's information.
 
+## How to run
+- Clone this repository
+```
+gh repo clone morekaccino/EECS6322-Course-Project
+```
+
 ## References
 1. W. Schwab and M. Poujol, “The state of industrial cybersecurity 2018,”
 Trend Study Kaspersky Reports, vol. 33, 2018.
