@@ -12,8 +12,7 @@ This proposal highlights the main contribution of the paper titled "On the Resil
 Trend Study Kaspersky Reports, vol. 33, 2018.
 2. J. Larsen, “Breakage,” Black Hat Federal, 2008.
 3. C. I. Cybersecurity, “Framework for improving critical infrastructure
-cybersecurity,” URL: https://nvlpubs. nist. gov/nistpubs/CSWP/NIST.
-CSWP, vol. 4162018, 2018.
+cybersecurity,” URL: https://nvlpubs.nist.gov/nistpubs/CSWP/NIST.CSWP, vol. 4162018, 2018.
 4. V. Y. Pillitteri, T. L. Brewer et al., “Guidelines for smart grid cyberse-
 curity,” 2014.
 5. M. Mohammadi, Y. Noorollahi, B. Mohammadi-ivatloo, M. Hossein-
