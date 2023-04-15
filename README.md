@@ -1,1 +1,1 @@
-# EECS6322-Course-Project
+# On the Resiliency of Power and Gas Integration Resources Against Cyber Attacks
